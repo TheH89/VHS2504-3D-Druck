@@ -23,6 +23,7 @@
 * Vorteile: Keine Stützstrukturen nötig, hohe Festigkeit
 * Einsatz: Funktionsteile, Prototypen, Kleinserien
 
+---
 
 ## Toxizität
 ### 🥇 1. FDM / FFF – am ungefährlichsten (bei richtigem Material)
@@ -45,6 +46,7 @@
 * Gefahr durch lungengängigen Staub (explosionsfähig!)
 * Nur in geschlossenen, professionellen Anlagen mit Absaugung
 
+---
 
 ## FDM/FFF Filamente
 ### 🧵 1. Standard-Filamente (ideal für Einsteiger)
@@ -108,6 +110,8 @@ Viele Filamente ziehen Feuchtigkeit → das führt zu Druckproblemen:
 Recycling von Druckresten und Einkauf von recycelten Filamenten unter:
 [Recycling Fabrik](https://www.recyclingfabrik.com/)
 
+---
+
 ## Spezialdruck mit Filamenten / gehärtete Düsen
 
 ### ⚠️ Warum sind gehärtete Düsen wichtig?
@@ -170,8 +174,6 @@ Wenn du viel experimentierst:
 - Achsen prüfen
 - Motorspannung/Temperatur checken
 
----
-
 ### 🧵 Unterextrusion
 **Ursachen:**
 - Verstopfte Düse
@@ -184,8 +186,6 @@ Wenn du viel experimentierst:
 - Temperatur leicht erhöhen
 - Trockene Lagerung
 
----
-
 ### 🕸️ Stringing (Fädenbildung)
 **Ursachen:**
 - Tropfendes Filament bei Leerfahrt
@@ -196,7 +196,6 @@ Wenn du viel experimentierst:
 - Reisegeschwindigkeit erhöhen
 - Filament trocken halten
 
----
 
 ### 🧲 Erste Schicht haftet nicht
 **Ursachen:**
@@ -209,7 +208,6 @@ Wenn du viel experimentierst:
 - Z-Offset justieren
 - Erste Schicht langsamer & mit mehr Flow drucken
 
----
 
 ### 🐘 Elefantenfuß
 **Ursachen:**
@@ -220,7 +218,6 @@ Wenn du viel experimentierst:
 - Bett-Temp senken
 - Z-Offset leicht anheben
 
----
 
 ### 🚫 Verstopfte Düse
 **Ursachen:**
@@ -232,7 +229,6 @@ Wenn du viel experimentierst:
 - Reinigungsnadel verwenden
 - Düse ggf. tauschen
 
----
 
 ### 📐 Z-Wobble (vertikale Wellen)
 **Ursachen:**
@@ -244,10 +240,8 @@ Wenn du viel experimentierst:
 - Gewindemuttern & Lager korrekt montieren
 - Führungen ölen/reinigen
 
----
 
 ### ✅ Bonus-Tipps
 - Immer nur eine Einstellung auf einmal ändern
 - Gute Einstellungen dokumentieren
 - Community nutzen (z. B. Reddit, Discord, Foren)
-
