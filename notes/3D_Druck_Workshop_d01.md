@@ -142,3 +142,112 @@ Partikelhaltige Filamente sind abrasiv – sie schleifen das Innere der Düse ab
 Wenn du viel experimentierst:
 * Setz auf ein System wie E3D V6, Volcano oder Revo
 * Manche Systeme erlauben schnellen Düsenwechsel ohne Werkzeug
+
+---
+
+## 🛠️ TROUBLE SHOOT - Häufige Fehler beim FDM / FFF 3D-Druck & Lösungen
+
+### 🔺 Warping (Ecken lösen sich vom Druckbett)
+**Ursachen:**
+- Material schrumpft beim Abkühlen (z. B. ABS)
+
+**Lösungen:**
+- Bett richtig leveln
+- Bett-Temperatur erhöhen
+- Brim oder Raft aktivieren
+- Enclosure verwenden
+
+---
+
+### ↔️ Layer Shift (versetzte Schichten)
+**Ursachen:**
+- Riemen locker
+- Motorprobleme
+- Kabel blockieren Bewegung
+
+**Lösungen:**
+- Riemen spannen
+- Achsen prüfen
+- Motorspannung/Temperatur checken
+
+---
+
+### 🧵 Unterextrusion
+**Ursachen:**
+- Verstopfte Düse
+- Extruder greift nicht richtig
+- Filament feucht oder spröde
+
+**Lösungen:**
+- Düse reinigen
+- Extruder prüfen
+- Temperatur leicht erhöhen
+- Trockene Lagerung
+
+---
+
+### 🕸️ Stringing (Fädenbildung)
+**Ursachen:**
+- Tropfendes Filament bei Leerfahrt
+
+**Lösungen:**
+- Retract aktivieren & optimieren
+- Drucktemperatur leicht senken
+- Reisegeschwindigkeit erhöhen
+- Filament trocken halten
+
+---
+
+### 🧲 Erste Schicht haftet nicht
+**Ursachen:**
+- Bett nicht eben oder verschmutzt
+- Düse zu weit weg
+
+**Lösungen:**
+- Bett leveln
+- Oberfläche reinigen (Isopropanol)
+- Z-Offset justieren
+- Erste Schicht langsamer & mit mehr Flow drucken
+
+---
+
+### 🐘 Elefantenfuß
+**Ursachen:**
+- Zu heißes Bett
+- Düse zu nah an Bett
+
+**Lösungen:**
+- Bett-Temp senken
+- Z-Offset leicht anheben
+
+---
+
+### 🚫 Verstopfte Düse
+**Ursachen:**
+- Verbranntes Filament
+- Fremdpartikel
+
+**Lösungen:**
+- Cold Pull (z. B. mit Nylon)
+- Reinigungsnadel verwenden
+- Düse ggf. tauschen
+
+---
+
+### 📐 Z-Wobble (vertikale Wellen)
+**Ursachen:**
+- Schiefe Z-Spindel
+- Ungleichmäßige Bewegung
+
+**Lösungen:**
+- Z-Spindeln prüfen (gerade, sauber)
+- Gewindemuttern & Lager korrekt montieren
+- Führungen ölen/reinigen
+
+---
+
+### ✅ Bonus-Tipps
+- Immer nur eine Einstellung auf einmal ändern
+- Gute Einstellungen dokumentieren
+- Community nutzen (z. B. Reddit, Discord, Foren)
+
