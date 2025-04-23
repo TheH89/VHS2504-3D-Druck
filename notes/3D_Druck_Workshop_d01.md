@@ -1,29 +1,33 @@
 # 3D Druck Workshop - Day 1 - The Basics
+<br>
 
 ## Druck Arten
 * FDM (Fused Deposition Modeling - Filament Druck)
 * SLA (Flüssiger Kunstharz giftig aber hoch präzise)
 * SLS (Pulver Druck)
+<br>
 
 ### 🔧 1. FDM / FFF (Fused Deposition Modeling / Fused Filament Fabrication)
 * Material: Thermoplastisches Filament (z. B. PLA, ABS, PETG)
 * Funktionsweise: Das Filament wird geschmolzen und schichtweise aufgetragen.
 * Vorteile: Günstig, einfach, weit verbreitet
 * Einsatz: Prototypen, Haushaltsgegenstände, Hobbybereich
+<br>
 
 ### 🧪 2. SLA (Stereolithografie) / DLP (Digital Light Processing)
 * Material: Flüssiges Photopolymer (Harz)
 * Funktionsweise: Harz wird durch Licht (Laser oder Projektor) gehärtet.
 * Vorteile: Sehr hohe Detailgenauigkeit, glatte Oberflächen
 * Einsatz: Schmuck, Zahntechnik, Miniaturen, Formenbau
+<br>
 
 ### 🧲 3. SLS (Selective Laser Sintering)
 * Material: Kunststoffpulver (z. B. Nylon)
 * Funktionsweise: Pulver wird durch einen Laser schichtweise verschmolzen.
 * Vorteile: Keine Stützstrukturen nötig, hohe Festigkeit
 * Einsatz: Funktionsteile, Prototypen, Kleinserien
-
 ---
+<br>
 
 ## Toxizität
 ### 🥇 1. FDM / FFF – am ungefährlichsten (bei richtigem Material)
@@ -34,6 +38,8 @@
 ➕ Mit geschlossener Druckkammer + Filter sehr sicher.
 ✅ Empfehlung für Hobby und Zuhause: PLA mit FDM – ideal bei guter Belüftung.
 
+<br>
+
 ### ⚠️ 2. SLA / DLP – sehr toxisch, Schutz nötig
 * Harze (Photopolymere) sind chemisch aggressiv und hautreizend.
 * Beim Aushärten können giftige Dämpfe entstehen.
@@ -41,12 +47,14 @@
 * Nur mit Handschuhen, Maske und Belüftung!
 🚫 Nicht geeignet für Kinder oder schlecht belüftete Räume.
 
+<br>
+
 ### ⚠️ 3. SLS / SLM / andere Pulververfahren – nur industriell
 * Feinstaubbelastung, hoher Energieaufwand
 * Gefahr durch lungengängigen Staub (explosionsfähig!)
 * Nur in geschlossenen, professionellen Anlagen mit Absaugung
-
 ---
+<br>
 
 ## FDM/FFF Filamente
 ### 🧵 1. Standard-Filamente (ideal für Einsteiger)
@@ -69,6 +77,8 @@
     Verwendung: Technische Teile, Auto- oder Haushaltskomponenten
     ⚠️ Nur in gut belüfteter Umgebung!
 
+<br>
+
 ### 🧪 2. Technische Filamente
 🔹 Nylon (Polyamid)
     Vorteile: Sehr stark, zäh, abriebfest, flexibel
@@ -88,6 +98,8 @@
     Nachteile: Braucht geschlossenen Bauraum
     Verwendung: Outdoor-Teile, Gehäuse, Solarhalterungen
 
+<br>
+
 ### 🌈 3. Spezialfilamente
 🔹 TPU / TPE (Thermoplastisches Elastomer)
     Vorteile: Gummiartig, flexibel, vibrationsdämpfend
@@ -101,6 +113,8 @@
     Nachteile: Abrasiv! → gehärtete Düse nötig
     Verwendung: Deko, Bauteile mit Metalloptik, Leichtbau
 
+<br>
+
 ### 🔒 Tipp zur Lagerung
 Viele Filamente ziehen Feuchtigkeit → das führt zu Druckproblemen:
 * Luftdicht lagern
@@ -111,6 +125,7 @@ Recycling von Druckresten und Einkauf von recycelten Filamenten unter:
 [Recycling Fabrik](https://www.recyclingfabrik.com/)
 
 ---
+<br>
 
 ## Spezialdruck mit Filamenten / gehärtete Düsen
 
@@ -119,6 +134,7 @@ Partikelhaltige Filamente sind abrasiv – sie schleifen das Innere der Düse ab
 * Größer werdender Düsenöffnung
 * Schlechter Druckqualität (unsaubere Linien, Unterextrusion)
 * Frühzeitigem Düsenversagen
+<br>
 
 ### ✅ Gehäuse-Düsentypen im Vergleich
 | **Düsentypen**     | **Material**           | **Eignung für abrasive Filamente**           |
@@ -128,12 +144,14 @@ Partikelhaltige Filamente sind abrasiv – sie schleifen das Innere der Düse ab
 | Edelstahl          | Mittelhart, rostfrei   | ➖ Geht, aber nicht ideal                     |
 | Rubin-Düsen        | Messing + Rubinspitze  | ✅✅ Extrem langlebig, teuer                  |
 | Tungsten (Wolfram) | Sehr hart, High-End    | ✅✅ Industriequalität  
+<br>
 
 ### 🔍 Woran erkenne ich, dass die Düse verschlissen ist?
 * Druckbild wird unsauber
 * Es kommt zu Unterextrusion
 * Layer sind unregelmäßig
 * Du musst mehr Flow einstellen, um dasselbe Ergebnis zu kriegen
+<br>
 
 ### 💡 Tipps im Umgang mit abrasiven Filamenten
 * Immer gehärtete Düse verwenden (am besten 0.4 mm oder größer)
@@ -141,13 +159,14 @@ Partikelhaltige Filamente sind abrasiv – sie schleifen das Innere der Düse ab
 * Filamenthersteller prüfen – nicht jedes "Holz" ist gleich abrasiv
 * Düse regelmäßig prüfen und ggf. tauschen
 * Für viele dieser Materialien lohnt sich eine Direct Drive-Extrusion
+<br>
 
 ### 🔧 Düsenwechsel leicht gemacht
 Wenn du viel experimentierst:
 * Setz auf ein System wie E3D V6, Volcano oder Revo
 * Manche Systeme erlauben schnellen Düsenwechsel ohne Werkzeug
-
 ---
+<br>
 
 ## 🛠️ TROUBLE SHOOT - Häufige Fehler beim FDM / FFF 3D-Druck & Lösungen
 
@@ -160,8 +179,7 @@ Wenn du viel experimentierst:
 - Bett-Temperatur erhöhen
 - Brim oder Raft aktivieren
 - Enclosure verwenden
-
----
+<br>
 
 ### ↔️ Layer Shift (versetzte Schichten)
 **Ursachen:**
@@ -173,6 +191,7 @@ Wenn du viel experimentierst:
 - Riemen spannen
 - Achsen prüfen
 - Motorspannung/Temperatur checken
+<br>
 
 ### 🧵 Unterextrusion
 **Ursachen:**
@@ -185,6 +204,7 @@ Wenn du viel experimentierst:
 - Extruder prüfen
 - Temperatur leicht erhöhen
 - Trockene Lagerung
+<br>
 
 ### 🕸️ Stringing (Fädenbildung)
 **Ursachen:**
@@ -195,7 +215,7 @@ Wenn du viel experimentierst:
 - Drucktemperatur leicht senken
 - Reisegeschwindigkeit erhöhen
 - Filament trocken halten
-
+<br>
 
 ### 🧲 Erste Schicht haftet nicht
 **Ursachen:**
@@ -207,7 +227,7 @@ Wenn du viel experimentierst:
 - Oberfläche reinigen (Isopropanol)
 - Z-Offset justieren
 - Erste Schicht langsamer & mit mehr Flow drucken
-
+<br>
 
 ### 🐘 Elefantenfuß
 **Ursachen:**
@@ -217,7 +237,7 @@ Wenn du viel experimentierst:
 **Lösungen:**
 - Bett-Temp senken
 - Z-Offset leicht anheben
-
+<br>
 
 ### 🚫 Verstopfte Düse
 **Ursachen:**
@@ -228,7 +248,7 @@ Wenn du viel experimentierst:
 - Cold Pull (z. B. mit Nylon)
 - Reinigungsnadel verwenden
 - Düse ggf. tauschen
-
+<br>
 
 ### 📐 Z-Wobble (vertikale Wellen)
 **Ursachen:**
@@ -239,9 +259,10 @@ Wenn du viel experimentierst:
 - Z-Spindeln prüfen (gerade, sauber)
 - Gewindemuttern & Lager korrekt montieren
 - Führungen ölen/reinigen
-
+<br>
 
 ### ✅ Bonus-Tipps
 - Immer nur eine Einstellung auf einmal ändern
 - Gute Einstellungen dokumentieren
 - Community nutzen (z. B. Reddit, Discord, Foren)
+<br>
