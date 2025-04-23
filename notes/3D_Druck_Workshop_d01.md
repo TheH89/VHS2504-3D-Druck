@@ -1,9 +1,5 @@
 # 3D Druck Workshop - Day 1 - The Basics
 
-## INFO
-* größte Fehler durch falsche Filament Temperatur 
-
-
 ## Druck Arten
 * FDM (Fused Deposition Modeling - Filament Druck)
 * SLA (Flüssiger Kunstharz giftig aber hoch präzise)
@@ -33,6 +29,7 @@
 * Materialien wie PLA (Polylactid) sind biologisch abbaubar und ungiftig.
 * Kaum Dämpfe oder Gerüche, besonders bei PLA.
 * Gefahren: Bei ABS oder anderen Kunststoffen können schädliche Dämpfe (Styrol) entstehen – gute Belüftung nötig.
+
 ➕ Mit geschlossener Druckkammer + Filter sehr sicher.
 ✅ Empfehlung für Hobby und Zuhause: PLA mit FDM – ideal bei guter Belüftung.
 
@@ -108,6 +105,8 @@ Viele Filamente ziehen Feuchtigkeit → das führt zu Druckproblemen:
 * Trockenboxen oder Silikagel nutzen
 * Für Nylon & TPU → vorher trocknen
 
+Recycling von Druckresten und Einkauf von recycelten Filamenten unter:
+[Recycling Fabrik](https://www.recyclingfabrik.com/)
 
 ## Spezialdruck mit Filamenten / gehärtete Düsen
 
