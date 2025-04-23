@@ -170,6 +170,8 @@ Wenn du viel experimentierst:
 
 ## 🛠️ TROUBLE SHOOT - Häufige Fehler beim FDM / FFF 3D-Druck & Lösungen
 
+Ausführliches [Video zu den häufigsten Druckproblemen](https://www.youtube.com/watch?v=WL3T_ijUUs8)
+
 ### 🔺 Warping (Ecken lösen sich vom Druckbett)
 **Ursachen:**
 - Material schrumpft beim Abkühlen (z. B. ABS)
