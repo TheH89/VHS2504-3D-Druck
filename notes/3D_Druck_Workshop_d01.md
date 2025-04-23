@@ -1,10 +1,10 @@
-# 3D Druck Workshop - Day 1 - The Basics ----------------------------------------------------------
+# 3D Druck Workshop - Day 1 - The Basics
 
 ## INFO
 * größte Fehler durch falsche Filament Temperatur 
 
 
-## DRUCK ARTEN
+## Druck Arten
 * FDM (Fused Deposition Modeling - Filament Druck)
 * SLA (Flüssiger Kunstharz giftig aber hoch präzise)
 * SLS (Pulver Druck)
@@ -28,7 +28,7 @@
     Einsatz: Funktionsteile, Prototypen, Kleinserien
 
 
-## Toxizität 
+## Toxizität
 🥇 1. FDM / FFF – am ungefährlichsten (bei richtigem Material)
     Materialien wie PLA (Polylactid) sind biologisch abbaubar und ungiftig.
     Kaum Dämpfe oder Gerüche, besonders bei PLA.
@@ -50,7 +50,7 @@
 
 
 ## FDM/FFF Filamente
-🧵 1. Standard-Filamente (ideal für Einsteiger)
+### 🧵 1. Standard-Filamente (ideal für Einsteiger)
 🔹 PLA (Polylactid)
     Vorteile: Sehr einfach zu drucken, geruchsarm, verzugsfrei, biologisch abbaubar
     Drucktemp: 180–220 °C, Bett: 0–60 °C
@@ -70,7 +70,7 @@
     Verwendung: Technische Teile, Auto- oder Haushaltskomponenten
     ⚠️ Nur in gut belüfteter Umgebung!
 
-🧪 2. Technische Filamente
+### 🧪 2. Technische Filamente
 🔹 Nylon (Polyamid)
     Vorteile: Sehr stark, zäh, abriebfest, flexibel
     Drucktemp: 240–270 °C, Bett: 70–100 °C
@@ -89,7 +89,7 @@
     Nachteile: Braucht geschlossenen Bauraum
     Verwendung: Outdoor-Teile, Gehäuse, Solarhalterungen
 
-🌈 3. Spezialfilamente
+### 🌈 3. Spezialfilamente
 🔹 TPU / TPE (Thermoplastisches Elastomer)
     Vorteile: Gummiartig, flexibel, vibrationsdämpfend
     Drucktemp: 210–250 °C, Bett: 30–60 °C
@@ -102,7 +102,7 @@
     Nachteile: Abrasiv! → gehärtete Düse nötig
     Verwendung: Deko, Bauteile mit Metalloptik, Leichtbau
 
-🔒 Tipp zur Lagerung
+### 🔒 Tipp zur Lagerung
 Viele Filamente ziehen Feuchtigkeit → das führt zu Druckproblemen:
     Luftdicht lagern
     Trockenboxen oder Silikagel nutzen
@@ -110,14 +110,14 @@ Viele Filamente ziehen Feuchtigkeit → das führt zu Druckproblemen:
 
 
 ## Spezialdruck mit Filamenten / gehärtete Düsen
-⚠️ Warum sind gehärtete Düsen wichtig?
 
+### ⚠️ Warum sind gehärtete Düsen wichtig?
 Partikelhaltige Filamente sind abrasiv – sie schleifen das Innere der Düse ab, vor allem bei Standard-Messingdüsen. Das führt zu:
     Größer werdender Düsenöffnung
     Schlechter Druckqualität (unsaubere Linien, Unterextrusion)
     Frühzeitigem Düsenversagen
 
-✅ Gehäuse-Düsentypen im Vergleich
+### ✅ Gehäuse-Düsentypen im Vergleich
 **Düsentypen**      | **Material**         | **Eignung für abrasive Filamente**
 Messing             | Weich, günstig       | ❌ Nein – nur für PLA, PETG etc.
 Stahl (gehärtet)    | Hart, langlebig      | ✅ Ja – ideal für abrasive Materialien
@@ -125,20 +125,20 @@ Edelstahl           | Mittelhart, rostfrei | ➖ Geht, aber nicht ideal
 Rubin-Düsen         | Messing + Rubinspitze| ✅✅ Extrem langlebig, teuer
 Tungsten (Wolfram)  | Sehr hart, High-End  | ✅✅ Industriequalität
 
-🔍 Woran erkenne ich, dass die Düse verschlissen ist?
+### 🔍 Woran erkenne ich, dass die Düse verschlissen ist?
     Druckbild wird unsauber
     Es kommt zu Unterextrusion
     Layer sind unregelmäßig
     Du musst mehr Flow einstellen, um dasselbe Ergebnis zu kriegen
 
-💡 Tipps im Umgang mit abrasiven Filamenten
+### 💡 Tipps im Umgang mit abrasiven Filamenten
     Immer gehärtete Düse verwenden (am besten 0.4 mm oder größer)
     Druckgeschwindigkeit leicht reduzieren – wirkt sich auf Qualität aus
     Filamenthersteller prüfen – nicht jedes "Holz" ist gleich abrasiv
     Düse regelmäßig prüfen und ggf. tauschen
     Für viele dieser Materialien lohnt sich eine Direct Drive-Extrusion
 
-🔧 Düsenwechsel leicht gemacht
+### 🔧 Düsenwechsel leicht gemacht
 Wenn du viel experimentierst:
     Setz auf ein System wie E3D V6, Volcano oder Revo
     Manche Systeme erlauben schnellen Düsenwechsel ohne Werkzeug
