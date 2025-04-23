@@ -9,23 +9,23 @@
 * SLA (Flüssiger Kunstharz giftig aber hoch präzise)
 * SLS (Pulver Druck)
 
-🔧 1. FDM / FFF (Fused Deposition Modeling / Fused Filament Fabrication)
-    Material: Thermoplastisches Filament (z. B. PLA, ABS, PETG)
-    Funktionsweise: Das Filament wird geschmolzen und schichtweise aufgetragen.
-    Vorteile: Günstig, einfach, weit verbreitet
-    Einsatz: Prototypen, Haushaltsgegenstände, Hobbybereich
+### 🔧 1. FDM / FFF (Fused Deposition Modeling / Fused Filament Fabrication)
+* Material: Thermoplastisches Filament (z. B. PLA, ABS, PETG)
+* Funktionsweise: Das Filament wird geschmolzen und schichtweise aufgetragen.
+* Vorteile: Günstig, einfach, weit verbreitet
+* Einsatz: Prototypen, Haushaltsgegenstände, Hobbybereich
 
-🧪 2. SLA (Stereolithografie) / DLP (Digital Light Processing)
-    Material: Flüssiges Photopolymer (Harz)
-    Funktionsweise: Harz wird durch Licht (Laser oder Projektor) gehärtet.
-    Vorteile: Sehr hohe Detailgenauigkeit, glatte Oberflächen
-    Einsatz: Schmuck, Zahntechnik, Miniaturen, Formenbau
+### 🧪 2. SLA (Stereolithografie) / DLP (Digital Light Processing)
+* Material: Flüssiges Photopolymer (Harz)
+* Funktionsweise: Harz wird durch Licht (Laser oder Projektor) gehärtet.
+* Vorteile: Sehr hohe Detailgenauigkeit, glatte Oberflächen
+* Einsatz: Schmuck, Zahntechnik, Miniaturen, Formenbau
 
-🧲 3. SLS (Selective Laser Sintering)
-    Material: Kunststoffpulver (z. B. Nylon)
-    Funktionsweise: Pulver wird durch einen Laser schichtweise verschmolzen.
-    Vorteile: Keine Stützstrukturen nötig, hohe Festigkeit
-    Einsatz: Funktionsteile, Prototypen, Kleinserien
+### 🧲 3. SLS (Selective Laser Sintering)
+* Material: Kunststoffpulver (z. B. Nylon)
+* Funktionsweise: Pulver wird durch einen Laser schichtweise verschmolzen.
+* Vorteile: Keine Stützstrukturen nötig, hohe Festigkeit
+* Einsatz: Funktionsteile, Prototypen, Kleinserien
 
 
 ## Toxizität
