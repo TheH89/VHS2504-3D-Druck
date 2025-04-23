@@ -1,12 +1,10 @@
-# 3D Druck Workshop - Berlin
+# 3D Druck Workshop - Day 1 - The Basics ----------------------------------------------------------
 
-## Day 1 - The Basics ----------------------------------------------------------
-
-### INFO
+## INFO
 * größte Fehler durch falsche Filament Temperatur 
 
 
-#### DRUCK ARTEN
+## DRUCK ARTEN
 * FDM (Fused Deposition Modeling - Filament Druck)
 * SLA (Flüssiger Kunstharz giftig aber hoch präzise)
 * SLS (Pulver Druck)
@@ -30,7 +28,7 @@
     Einsatz: Funktionsteile, Prototypen, Kleinserien
 
 
-#### Toxizität 
+## Toxizität 
 🥇 1. FDM / FFF – am ungefährlichsten (bei richtigem Material)
     Materialien wie PLA (Polylactid) sind biologisch abbaubar und ungiftig.
     Kaum Dämpfe oder Gerüche, besonders bei PLA.
@@ -51,7 +49,7 @@
     Nur in geschlossenen, professionellen Anlagen mit Absaugung
 
 
-#### FDM/FFF Filamente
+## FDM/FFF Filamente
 🧵 1. Standard-Filamente (ideal für Einsteiger)
 🔹 PLA (Polylactid)
     Vorteile: Sehr einfach zu drucken, geruchsarm, verzugsfrei, biologisch abbaubar
@@ -111,7 +109,7 @@ Viele Filamente ziehen Feuchtigkeit → das führt zu Druckproblemen:
     Für Nylon & TPU → vorher trocknen
 
 
-#### Spezialdruck mit Filamenten / gehärtete Düsen
+## Spezialdruck mit Filamenten / gehärtete Düsen
 ⚠️ Warum sind gehärtete Düsen wichtig?
 
 Partikelhaltige Filamente sind abrasiv – sie schleifen das Innere der Düse ab, vor allem bei Standard-Messingdüsen. Das führt zu:
