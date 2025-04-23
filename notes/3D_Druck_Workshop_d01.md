@@ -29,24 +29,24 @@
 
 
 ## Toxizität
-🥇 1. FDM / FFF – am ungefährlichsten (bei richtigem Material)
-    Materialien wie PLA (Polylactid) sind biologisch abbaubar und ungiftig.
-    Kaum Dämpfe oder Gerüche, besonders bei PLA.
-    Gefahren: Bei ABS oder anderen Kunststoffen können schädliche Dämpfe (Styrol) entstehen – gute Belüftung nötig.
-    ➕ Mit geschlossener Druckkammer + Filter sehr sicher.
+### 🥇 1. FDM / FFF – am ungefährlichsten (bei richtigem Material)
+* Materialien wie PLA (Polylactid) sind biologisch abbaubar und ungiftig.
+* Kaum Dämpfe oder Gerüche, besonders bei PLA.
+* Gefahren: Bei ABS oder anderen Kunststoffen können schädliche Dämpfe (Styrol) entstehen – gute Belüftung nötig.
+➕ Mit geschlossener Druckkammer + Filter sehr sicher.
 ✅ Empfehlung für Hobby und Zuhause: PLA mit FDM – ideal bei guter Belüftung.
 
-⚠️ 2. SLA / DLP – sehr toxisch, Schutz nötig
-    Harze (Photopolymere) sind chemisch aggressiv und hautreizend.
-    Beim Aushärten können giftige Dämpfe entstehen.
-    Nachbearbeitung mit Isopropanol und UV-Licht ist nötig.
-    Nur mit Handschuhen, Maske und Belüftung!
+### ⚠️ 2. SLA / DLP – sehr toxisch, Schutz nötig
+* Harze (Photopolymere) sind chemisch aggressiv und hautreizend.
+* Beim Aushärten können giftige Dämpfe entstehen.
+* Nachbearbeitung mit Isopropanol und UV-Licht ist nötig.
+* Nur mit Handschuhen, Maske und Belüftung!
 🚫 Nicht geeignet für Kinder oder schlecht belüftete Räume.
 
-⚠️ 3. SLS / SLM / andere Pulververfahren – nur industriell
-    Feinstaubbelastung, hoher Energieaufwand
-    Gefahr durch lungengängigen Staub (explosionsfähig!)
-    Nur in geschlossenen, professionellen Anlagen mit Absaugung
+### ⚠️ 3. SLS / SLM / andere Pulververfahren – nur industriell
+* Feinstaubbelastung, hoher Energieaufwand
+* Gefahr durch lungengängigen Staub (explosionsfähig!)
+* Nur in geschlossenen, professionellen Anlagen mit Absaugung
 
 
 ## FDM/FFF Filamente
@@ -104,41 +104,42 @@
 
 ### 🔒 Tipp zur Lagerung
 Viele Filamente ziehen Feuchtigkeit → das führt zu Druckproblemen:
-    Luftdicht lagern
-    Trockenboxen oder Silikagel nutzen
-    Für Nylon & TPU → vorher trocknen
+* Luftdicht lagern
+* Trockenboxen oder Silikagel nutzen
+* Für Nylon & TPU → vorher trocknen
 
 
 ## Spezialdruck mit Filamenten / gehärtete Düsen
 
 ### ⚠️ Warum sind gehärtete Düsen wichtig?
 Partikelhaltige Filamente sind abrasiv – sie schleifen das Innere der Düse ab, vor allem bei Standard-Messingdüsen. Das führt zu:
-    Größer werdender Düsenöffnung
-    Schlechter Druckqualität (unsaubere Linien, Unterextrusion)
-    Frühzeitigem Düsenversagen
+* Größer werdender Düsenöffnung
+* Schlechter Druckqualität (unsaubere Linien, Unterextrusion)
+* Frühzeitigem Düsenversagen
 
 ### ✅ Gehäuse-Düsentypen im Vergleich
-**Düsentypen**      | **Material**         | **Eignung für abrasive Filamente**
-Messing             | Weich, günstig       | ❌ Nein – nur für PLA, PETG etc.
-Stahl (gehärtet)    | Hart, langlebig      | ✅ Ja – ideal für abrasive Materialien
-Edelstahl           | Mittelhart, rostfrei | ➖ Geht, aber nicht ideal
-Rubin-Düsen         | Messing + Rubinspitze| ✅✅ Extrem langlebig, teuer
-Tungsten (Wolfram)  | Sehr hart, High-End  | ✅✅ Industriequalität
+| **Düsentypen**     | **Material**           | **Eignung für abrasive Filamente**           |
+|--------------------|------------------------|----------------------------------------------|
+| Messing            | Weich, günstig         | ❌ Nein – nur für PLA, PETG etc.             |
+| Stahl (gehärtet)   | Hart, langlebig        | ✅ Ja – ideal für abrasive Materialien        |
+| Edelstahl          | Mittelhart, rostfrei   | ➖ Geht, aber nicht ideal                     |
+| Rubin-Düsen        | Messing + Rubinspitze  | ✅✅ Extrem langlebig, teuer                  |
+| Tungsten (Wolfram) | Sehr hart, High-End    | ✅✅ Industriequalität  
 
 ### 🔍 Woran erkenne ich, dass die Düse verschlissen ist?
-    Druckbild wird unsauber
-    Es kommt zu Unterextrusion
-    Layer sind unregelmäßig
-    Du musst mehr Flow einstellen, um dasselbe Ergebnis zu kriegen
+* Druckbild wird unsauber
+* Es kommt zu Unterextrusion
+* Layer sind unregelmäßig
+* Du musst mehr Flow einstellen, um dasselbe Ergebnis zu kriegen
 
 ### 💡 Tipps im Umgang mit abrasiven Filamenten
-    Immer gehärtete Düse verwenden (am besten 0.4 mm oder größer)
-    Druckgeschwindigkeit leicht reduzieren – wirkt sich auf Qualität aus
-    Filamenthersteller prüfen – nicht jedes "Holz" ist gleich abrasiv
-    Düse regelmäßig prüfen und ggf. tauschen
-    Für viele dieser Materialien lohnt sich eine Direct Drive-Extrusion
+* Immer gehärtete Düse verwenden (am besten 0.4 mm oder größer)
+* Druckgeschwindigkeit leicht reduzieren – wirkt sich auf Qualität aus
+* Filamenthersteller prüfen – nicht jedes "Holz" ist gleich abrasiv
+* Düse regelmäßig prüfen und ggf. tauschen
+* Für viele dieser Materialien lohnt sich eine Direct Drive-Extrusion
 
 ### 🔧 Düsenwechsel leicht gemacht
 Wenn du viel experimentierst:
-    Setz auf ein System wie E3D V6, Volcano oder Revo
-    Manche Systeme erlauben schnellen Düsenwechsel ohne Werkzeug
+* Setz auf ein System wie E3D V6, Volcano oder Revo
+* Manche Systeme erlauben schnellen Düsenwechsel ohne Werkzeug
