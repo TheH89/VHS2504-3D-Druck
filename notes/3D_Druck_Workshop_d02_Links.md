@@ -41,3 +41,4 @@ Folgende Tools sind u.a. frei Verfügbar.
 * [UHU Kunststoff Kleber](https://www.uhu-profishop.de/klebstoffe/spezialklebstoffe/160/uhu-hart-kunststoff-tube-30g)
 * [Learn Fusion in 30 Days](https://www.youtube.com/watch?v=WKb3mRkgTwg&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr)
 * [Recycling Fabrik](https://www.recyclingfabrik.com/)
+* [Klassische Fehler im 3D Druck](https://www.3dprima.com/de/3dprima/3d-druck-guide-haeufige-probleme-gruende-loesungen#A1)
