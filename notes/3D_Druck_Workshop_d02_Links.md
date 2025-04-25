@@ -4,6 +4,8 @@
 ### [TinkerCAD](https://www.tinkercad.com/)
 Tinkercad ist eine benutzerfreundliche, webbasierte 3D-Design- und Modellierungssoftware, die es ermöglicht, schnell einfache 3D-Modelle zu erstellen und für den 3D-Druck vorzubereiten.
 
+Hier gehts zur [TinkerCAD Short Cut Liste](https://assets.ctfassets.net/jl5ii4oqrdmc/6TNFVIF89KMN9CPLLH97U0/cc996201b4d443c63c84b54a26c1891b/Tinkercad_keyboard_shortcuts_1_up.pdf).
+
 ---
 
 
