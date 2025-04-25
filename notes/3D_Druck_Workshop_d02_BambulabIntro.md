@@ -1,13 +1,19 @@
 # Day 2 - Einführung in Bambu Studio (Bambu Lab Slicer Software)
+<br>
+
 
 ## 🔧 Was ist Bambu Studio?
 
 **Bambu Studio** ist die offizielle Slicer-Software von **Bambu Lab** für deren 3D-Drucker wie P1P, P1S, X1 Carbon etc.  
 Sie basiert auf **PrusaSlicer**, wurde aber stark erweitert – mit Fokus auf Benutzerfreundlichkeit, Multi-Material-Unterstützung und direkte Integration mit den Bambu-Geräten.
 
-[BambuLab Wiki](https://wiki.bambulab.com/en/home)
+* [BambuLab Wiki](https://wiki.bambulab.com/en/home)
+* Offizielle Download Seite von [Bambu Studio](https://bambulab.com/en/download/studio)
+* [Portable Standalone Variante für Windows](https://github.com/bambulab/BambuStudio/releases/download/V02.00.03.54/Bambu_Studio_win-v02.00.03.54-20250424182834.zip)
+Die portable Version muss nur entpackt werden und dann innerhalb des entpackten Ordners die Datei ***bambu-studio.exe*** ausgeführt werden. ( Doppel-Klick! ;) )
 
 ---
+
 
 ### 🧭 Aufbau & Oberfläche
 
@@ -88,73 +94,6 @@ Hier gehts zum [BambuLab Wiki Quick Start](https://wiki.bambulab.com/en/software
 4. Supports und Haftmethoden wählen
 5. Slice ausführen und Vorschau prüfen
 6. Direkt an Drucker senden oder Datei speichern
-
----
-
-
-## Wichtige Kalibrierungsfaktoren für Filamente (Bambu Studio)
-
-Diese Faktoren beeinflussen maßgeblich die Druckqualität und Materialeffizienz bei der Einrichtung neuer Filamente.
-Nach der Kalibrierung und sobald Druck stabil läuft ---> Automatische Bettnivelierung AUSSCHALTEN! 
-
-
-### 🌡️ 1. Druck- & Bett-Temperatur
-
-- **Düsentemperatur**: beeinflusst Fluss, Layer-Haftung, Überhänge  
-- **Bett-Temperatur**: wichtig für erste Schicht und Warping-Vermeidung
-
-💡 **Empfehlung**: Temperaturturm drucken, wenn du dir unsicher bist
-
-
-### 🧵 2. Flow Rate (Extrusionsmenge)
-
-- Steuert, wie viel Material extrudiert wird
-- Zu hoch: Überextrusion (Wülste, Unsauberkeiten)  
-- Zu niedrig: Unterextrusion (Lücken, schwache Layerbindung)
-
-➡️ **Kalibrierung über „Flow Calibration Tool“ in Bambu Studio**
-
-
-### ↩️ 3. Retraction (Rückzug)
-
-- Verhindert „Stringing“ beim Düsenwechsel
-- Wichtige Parameter:
-  - **Retraction Distance**
-  - **Retraction Speed**
-  - **Wipe Distance**
-
-💡 Besonders wichtig bei TPU und PETG
-
-### ⚙️ 4. Druckgeschwindigkeit
-
-- Beeinflusst Druckqualität & Haftung
-- Für unbekannte oder weiche Materialien: langsamer starten
-
-
-### 📐 5. First Layer & Haftung
-
-- Bettlevel & Flow im ersten Layer müssen stimmen
-- Parameter:
-  - **First Layer Height**
-  - **First Layer Speed**
-  - **Build Plate Adhesion**: Brim, Skirt, Raft
-
-
-### 🌀 6. Kühlung (Cooling)
-
-- Wichtig für Überhänge, Brücken und Details
-- PLA: viel Kühlung  
-- ABS/ASA: wenig bis keine Kühlung  
-- PETG: moderat, sonst Layer-Haftung leidet
-
-
-## ✅ Tipp: Tests zum Kalibrieren
-
-- Flow Cube / Calibration Cube  
-- Temperaturturm  
-- Retraction Test  
-- First Layer Test  
-- Überhang-Test
 
 ---
 
