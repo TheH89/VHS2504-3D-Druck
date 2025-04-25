@@ -5,6 +5,8 @@
 **Bambu Studio** ist die offizielle Slicer-Software von **Bambu Lab** für deren 3D-Drucker wie P1P, P1S, X1 Carbon etc.  
 Sie basiert auf **PrusaSlicer**, wurde aber stark erweitert – mit Fokus auf Benutzerfreundlichkeit, Multi-Material-Unterstützung und direkte Integration mit den Bambu-Geräten.
 
+[BambuLab Wiki](https://wiki.bambulab.com/en/home)
+
 ---
 
 ### 🧭 Aufbau & Oberfläche
@@ -93,6 +95,7 @@ Hier gehts zum [BambuLab Wiki Quick Start](https://wiki.bambulab.com/en/software
 ## Wichtige Kalibrierungsfaktoren für Filamente (Bambu Studio)
 
 Diese Faktoren beeinflussen maßgeblich die Druckqualität und Materialeffizienz bei der Einrichtung neuer Filamente.
+Nach der Kalibrierung und sobald Druck stabil läuft ---> Automatische Bettnivelierung AUSSCHALTEN! 
 
 
 ### 🌡️ 1. Druck- & Bett-Temperatur
