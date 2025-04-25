@@ -92,3 +92,7 @@ Hier gibts auch ein Video dazu:
 [Verbinder](https://www.youtube.com/watch?v=utoccDo3TSk)
 
 
+---
+
+## Filamente Kaufempfehlung
+[ELEGOO PLA+](https://eu.elegoo.com/de/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg)
