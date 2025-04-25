@@ -16,8 +16,8 @@ e.g. Düse mit 0.4 mm
 ## Wichtige Kalibrierungsfaktoren für Filamente 
 
 **Passende Videos:**
-[Den Filamentfluss 100% genau Kalibrieren für perfekte Druckergebnisse](https://www.youtube.com/watch?v=upaX2w6j_yg)
-[Optimaler Druck](https://www.youtube.com/watch?v=-cDs52lSlyw)
+* [Den Filamentfluss 100% genau Kalibrieren für perfekte Druckergebnisse](https://www.youtube.com/watch?v=upaX2w6j_yg)
+* [Optimaler Druck](https://www.youtube.com/watch?v=-cDs52lSlyw)
 
 Die folgenden Faktoren beeinflussen maßgeblich die Druckqualität und Materialeffizienz bei der Einrichtung neuer Filamente.
 Nach der Kalibrierung und sobald Druck stabil läuft ---> Automatische Bettnivelierung AUSSCHALTEN!
