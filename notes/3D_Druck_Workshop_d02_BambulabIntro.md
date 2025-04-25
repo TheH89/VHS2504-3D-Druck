@@ -10,6 +10,7 @@ Sie basiert auf **PrusaSlicer**, wurde aber stark erweitert – mit Fokus auf Be
 * [BambuLab Wiki](https://wiki.bambulab.com/en/home)
 * Offizielle Download Seite von [Bambu Studio](https://bambulab.com/en/download/studio)
 * [Portable Standalone Variante für Windows](https://github.com/bambulab/BambuStudio/releases/download/V02.00.03.54/Bambu_Studio_win-v02.00.03.54-20250424182834.zip)
+
 Die portable Version muss nur entpackt werden und dann innerhalb des entpackten Ordners die Datei ***bambu-studio.exe*** ausgeführt werden. ( Doppel-Klick! ;) )
 
 ---
