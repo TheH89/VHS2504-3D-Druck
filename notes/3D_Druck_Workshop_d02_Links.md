@@ -33,3 +33,11 @@ Folgende Tools sind u.a. frei Verfügbar.
 ### Online "fertige" 3D Objekte
 * [Thingiverse](https://www.thingiverse.com/)
 * [MakerWorld](https://makerworld.com/de/3d-models)
+
+---
+
+
+### Sonstiges
+* [UHU Kunststoff Kleber](https://www.uhu-profishop.de/klebstoffe/spezialklebstoffe/160/uhu-hart-kunststoff-tube-30g)
+* [Learn Fusion in 30 Days](https://www.youtube.com/watch?v=WKb3mRkgTwg&list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr)
+* [Recycling Fabrik](https://www.recyclingfabrik.com/)
